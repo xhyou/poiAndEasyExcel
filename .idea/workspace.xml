@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a41fe79-2c3e-4764-9d00-8c94805ca4f3" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\maven_repository" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bTtfcH2tI7c5BD6ZBfqBoU0FPV" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.14453125" />
+    <property name="project.structure.side.proportion" value="0.33105022" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.EasyExcelDemo.easyExcelWrite">
+    <configuration name="EasyExcelDemo.easyExcelRead" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="studyPoi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.easyExcel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.study.easyExcel" />
+      <option name="MAIN_CLASS_NAME" value="com.study.easyExcel.EasyExcelDemo" />
+      <option name="METHOD_NAME" value="easyExcelRead" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EasyExcelDemo.easyExcelWrite (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="studyPoi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.easyExcel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.study.easyExcel" />
+      <option name="MAIN_CLASS_NAME" value="com.study.easyExcel.EasyExcelDemo" />
+      <option name="METHOD_NAME" value="easyExcelWrite(javax.servlet.http.HttpServletResponse)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EasyExcelDemo.easyExcelWrite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="studyPoi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.easyExcel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.study.easyExcel" />
+      <option name="MAIN_CLASS_NAME" value="com.study.easyExcel.EasyExcelDemo" />
+      <option name="METHOD_NAME" value="easyExcelWrite" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExcelWirte.ExcelTypeRead" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="studyPoi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.poi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.study.poi" />
+      <option name="MAIN_CLASS_NAME" value="com.study.poi.ExcelWirte" />
+      <option name="METHOD_NAME" value="ExcelTypeRead" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExcelWirte.ExcelWriteBigData03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="studyPoi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.poi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.study.poi" />
+      <option name="MAIN_CLASS_NAME" value="com.study.poi.ExcelWirte" />
+      <option name="METHOD_NAME" value="ExcelWriteBigData03" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EasyExcelDemo.easyExcelWrite" />
+        <item itemvalue="JUnit.EasyExcelDemo.easyExcelRead" />
+        <item itemvalue="JUnit.EasyExcelDemo.easyExcelWrite (1)" />
+        <item itemvalue="JUnit.ExcelWirte.ExcelTypeRead" />
+        <item itemvalue="JUnit.ExcelWirte.ExcelWriteBigData03" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a41fe79-2c3e-4764-9d00-8c94805ca4f3" name="Default Changelist" comment="" />
+      <created>1588668015480</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588668015480</updated>
+      <workItem from="1588668020062" duration="22089000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
